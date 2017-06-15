@@ -34,7 +34,7 @@ third:
 	fi
 
 
-dist:  
+dist: default 
 	tar -cvzf lab4c-504646937.tar.gz edison.c edison2.c README Makefile
 
 clean: 

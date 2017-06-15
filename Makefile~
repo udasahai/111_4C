@@ -35,7 +35,7 @@ third:
 
 
 dist:  
-	tar -cvzf lab4c-504646937.tar.gz checkScript edison.c edison2.c README Makefile
+	tar -cvzf lab4c-504646937.tar.gz edison.c edison2.c README Makefile
 
 clean: 
 	rm -rf *.tar.gz lab4c_*
