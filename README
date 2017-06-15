@@ -1,0 +1,11 @@
+NAME: UDAYAN SAHAI
+EMAIL: udasahai@gmail.com
+ID: 504646937
+
+
+C file edison.c contains the TCP version of the program that has been
+implemeted, while the file edison2.c contains the tls version. The program is
+implemented using a big while loop. That takes input from the user and then
+prints out something to screen if that is required or if one second has passed 
+when it prints out the report.
+
